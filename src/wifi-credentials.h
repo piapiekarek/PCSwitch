@@ -1,4 +1,5 @@
-#pragma once
+#ifndef WIFI_CREDENTIALS_H
+#define WIFI_CREDENTIALS_H
 
-const char* topic_name = "topic_name"; 
-const char* topic_msg_string = "topic_msg_string"; 
+
+#endif
